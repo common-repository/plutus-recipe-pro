@@ -1,0 +1,53 @@
+.site-main .plutus-missing-settings,
+.site-main .entry-content .plutus-recipe,
+.site-main .plutus-recipe {
+	font-size: 1em;
+}
+
+.site-main .plutus-missing-settings .plutus-mess-title {
+	font-size: 1em;
+	font-weight: 500;
+	margin-bottom: 4px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.site-main .plutus-recipe-inner h3.plutus-recipe-label,
+.site-main .plutus-recipe-summary .plutus-recipe-meta {
+	font-size: 0.85em;
+}
+
+.site-main .plutus-recipe-inner .plutus-list-unstyled {
+	margin-top: 0;
+}
+
+.site-main .plutus-recipe .plutus-recipe-pinterest,
+.site-main .plutus-recipe a.plutus-recipe-printbtn {
+	transition: background 150ms ease-in-out;
+	background: #0073aa;
+	border: none;
+	border-radius: 5px;
+	box-sizing: border-box;
+	color: #fff;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-size: 0.88889em;
+	font-weight: 700;
+	line-height: 1.2;
+	outline: none;
+	padding: 0.5rem 1rem;
+	text-decoration: none;
+	vertical-align: bottom;
+	height: auto;
+	text-decoration: none !important;
+}
+
+.site-main .plutus-recipe .plutus-recipe-pinterest:hover,
+.site-main .plutus-recipe a.plutus-recipe-printbtn:hvoer {
+	background: #111;
+	cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+	.site-main .plutus-recipe .plutus-recipe-header h2 {
+		font-size: 2.25em;
+	}
+}

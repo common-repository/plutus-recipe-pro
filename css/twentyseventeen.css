@@ -1,0 +1,8 @@
+.plutus-recipe-inner h3.plutus-recipe-label,
+.plutus-recipe .plutus-recipe-meta-label,
+.plutus-recipe .plutus-recipe-header h2 {
+	font-weight: 600;
+}
+.plutus-recipe-inner .plutus-list-unstyled li > div:not( .plutus-recipe-inputhide ){
+	margin-bottom: 5px;
+}
